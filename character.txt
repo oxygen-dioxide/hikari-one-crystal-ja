@@ -1,0 +1,10 @@
+name=Hikari One  「crystal」
+image=hikari.bmp
+author=kyomiii / revonni
+sample=sample.wav
+
+
+性別  : 女の子
+年齢  : 16
+身長  : 1.60 m
+C V  : kyomiii / revonni
