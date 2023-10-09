@@ -15,6 +15,12 @@
 *.uspec
 *.vs4ufrq
 
+#UTAU related tools
+$read
+*.setParam-Scache
+*.lbp
+*.lbp.caches/*
+
 #Deepvocal
 *.DVModel
 *-log.txt
